@@ -58,10 +58,6 @@ I'll be regularly updating this repository with new content and projects. Make s
 
 Feel free to fork this repository, open issues, and submit pull requests. Let's learn and grow together!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Happy coding! 🚀
